@@ -1,0 +1,8 @@
+# run: conda env create --file environment.yml
+name: OC_cases_variants
+dependencies:
+- python==3.8.3
+- anaconda
+- pip
+- pip:
+  - -r requirements.txt
