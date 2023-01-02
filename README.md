@@ -1,3 +1,8 @@
+## Note
+To get an updated and integrated version of process executions and variants please use [ocpa](https://gihub.com/ocpm/ocpa).
+
+
+
 ## Welcome 
 
 ### This repository provides the code to reproduce the experiments, results and figures provided in the corresponding paper.
