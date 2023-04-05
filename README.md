@@ -1,5 +1,5 @@
 ## Note
-To get an updated and integrated version of process executions and variants please use [ocpa](https://gihub.com/ocpm/ocpa).
+To get an updated and integrated version of process executions and variants please use [ocpa](https://github.com/ocpm/ocpa).
 
 
 
